@@ -9,11 +9,11 @@ This project, "Credit Risk Assessment Using Machine Learning," is a comprehensiv
 
 ## Project Overview
 
-In this project, we traverse through various stages of the machine learning project lifecycle, right from data preprocessing to model evaluation and selection. Each step is meticulously executed to ensure the highest accuracy and relevance in predictions.
+In this project, I traverse through various stages of the machine learning project lifecycle, right from data preprocessing to model evaluation and selection. Each step is meticulously executed to ensure the highest accuracy and relevance in predictions.
 
 ### Data Exploration and Preprocessing
 
-At the outset, we delve deep into the dataset, understanding its nuances, and preparing it for analysis. This includes:
+At the outset, I delve deep into the dataset, understanding its nuances, and preparing it for analysis. This includes:
 
 - Handling missing values meticulously to maintain data integrity.
 - Encoding categorical variables, transforming them into a format suitable for machine learning algorithms.
@@ -34,7 +34,7 @@ This phase is about identifying the most impactful features that contribute sign
 
 ### Model Building
 
-Here, we build various machine learning models, each with its strengths. The models include:
+Here, I build various machine learning models, each with its strengths. The models include:
 
 - Logistic Regression: For its simplicity and effectiveness in binary classification.
 - Random Forest and Gradient Boosting: They are robust to outliers and capable of capturing complex non-linear relationships.
@@ -50,7 +50,7 @@ Each model is rigorously evaluated on multiple metrics:
 
 ### Model Selection and Tuning
 
-Based on the evaluation, the best-performing model is selected. We then fine-tune its hyperparameters to further enhance its predictive power.
+Based on the evaluation, the best-performing model is selected. I then fine-tune its hyperparameters to further enhance its predictive power.
 
 ## Insights and Key Takeaways
 
